@@ -1,8 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad0836e6-4bcf-461b-84a5-e41fc4d17d40" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ad0836e6-4bcf-461b-84a5-e41fc4d17d40" name="Default" comment="study">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server-git/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server-git/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server-git/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server-git/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server-git/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer-feign/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer-feign/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer-feign/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer-feign/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer-ribbon/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer-ribbon/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer-ribbon/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer-ribbon/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hystrix-dashboard/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hystrix-dashboard/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hystrix-dashboard/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hystrix-dashboard/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hystrix-dashboard/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springCloud.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,11 +79,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <file leaf-file-name="1111.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1111.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="53" column="36" lean-forward="true" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+            <state relative-caret-position="304">
+              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -47,6 +101,9 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -83,13 +140,13 @@
         <option value="$PROJECT_DIR$/hystrix-dashboard/src/main/java/com/enjoy/hystrixdashboard/HystrixDashboardApplication.java" />
         <option value="$PROJECT_DIR$/hystrix-dashboard/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/src/main/java/com/enjoy/eurekaconsumerribbonhystrix/controller/DcController.java" />
-        <option value="$PROJECT_DIR$/1111.txt" />
         <option value="$PROJECT_DIR$/eureka-consumer/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/eureka-client/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/eureka-client/src/main/java/com/enjoy/eurekaclient/controller/DiscoveryController.java" />
         <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/api-gateway/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/api-gateway/src/main/java/com/enjoy/apigateway/ApiGatewayApplication.java" />
+        <option value="$PROJECT_DIR$/1111.txt" />
       </list>
     </option>
   </component>
@@ -138,7 +195,7 @@
             <path>
               <item name="springCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springCloud" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -346,11 +403,25 @@
       <option name="project" value="LOCAL" />
       <updated>1538034050025</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="study">
+      <created>1538034184872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1538034184872</updated>
+    </task>
+    <task id="LOCAL-00005" summary="study">
+      <created>1538035241918</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538035241918</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54981000" />
+    <option name="totallyTimeSpent" value="57893000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -363,7 +434,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -807,13 +877,6 @@
     <entry file="file://$PROJECT_DIR$/springCloud.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1111.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -823,8 +886,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="53" column="36" lean-forward="true" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+        <state relative-caret-position="247">
+          <caret line="55" column="77" lean-forward="true" selection-start-line="55" selection-start-column="77" selection-end-line="55" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1111.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
         </state>
       </provider>
     </entry>
